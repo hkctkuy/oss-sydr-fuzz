@@ -22,4 +22,3 @@ jobs = 2
 [libfuzzer]
 path = "/fuzz_disasmnext"
 args = "/corpusnext"
-cmin = false
